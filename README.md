@@ -21,3 +21,4 @@ nodejs-sdk/app/stylesheets/
 数据库操作（未完成）
 nodejs-sdk/app/Asset/
 
+运行环境：ubuntu虚拟机 fisco-bcos、nodejs-sdk配置环境下
